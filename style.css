@@ -1,0 +1,6 @@
+body {
+    background: linear-gradient(rgb(14, 0, 108), rgb(76, 76, 251));
+    background-attachment: fixed;
+    color: antiquewhite;
+    text-align: center;
+}
